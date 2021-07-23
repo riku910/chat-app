@@ -77,7 +77,7 @@
 }
 
 .messages {
-  background-color: #FAFAFA;
+  background-color: red;
   height: calc(100vh - 100px - 90px);
   padding: 46px 40px 0;
   overflow: scroll;
@@ -123,6 +123,7 @@
   background-color: white;
   width: 100%;
   display: flex;
+  width: 100%;
 }
 
 .form-message {
